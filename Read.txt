@@ -1,0 +1,3 @@
+python demo.py --checkpoint-path C:\Users\omkar\OneDrive\Desktop\myPose\checkpoint_iter_370000.pth --video 0
+
+https://pytorch.org/get-started/locally/
